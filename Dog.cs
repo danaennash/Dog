@@ -1,3 +1,7 @@
+using System;
+
+using System.IO;
+
 //CREATION OF DOG CLASS
 class Dog
 {
