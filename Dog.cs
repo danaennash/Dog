@@ -84,6 +84,3 @@ class Dog
       Console.ReadKey();
       }
       }
-
-
-
